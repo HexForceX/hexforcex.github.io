@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: HexForce - Cyber Security Community
+description: To share cybersecurity knowledge with everyone, facilitating technical knowledge transfer and creating an inclusive community open to individuals from all backgrounds.
+show_downloads: false
+header_pages:
+  - index.md
+  - rules.md
